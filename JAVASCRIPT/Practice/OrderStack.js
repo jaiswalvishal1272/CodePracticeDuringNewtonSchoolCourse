@@ -1,0 +1,10 @@
+function foo(b) {
+    let a = 11
+    return a + b + 11
+}
+function bar(x) {
+    let y = 3
+    return foo(x * y)
+}
+const baz = bar(7)
+console.log(baz)

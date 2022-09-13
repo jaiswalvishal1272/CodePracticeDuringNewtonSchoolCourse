@@ -1,0 +1,22 @@
+body{
+    background-color: blueviolet;
+
+}
+.head {
+    display: grid;
+    justify-content: center;
+
+
+}
+#na {
+    width: 300px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+}
+#rf {
+
+}
+#apply {
+    background-color: brown;
+}

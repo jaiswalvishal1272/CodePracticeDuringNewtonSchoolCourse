@@ -1,0 +1,3 @@
+Hi this is Vishal.
+here, I am fetching the data
+using fetch API.

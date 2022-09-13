@@ -1,0 +1,357 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch LinearProbing",
+            "request": "launch",
+            "mainClass": "LinearProbing",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxAndMin",
+            "request": "launch",
+            "mainClass": "MaxAndMin",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckArrayIsSortedAndRotated",
+            "request": "launch",
+            "mainClass": "CheckArrayIsSortedAndRotated",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindNumberRecur",
+            "request": "launch",
+            "mainClass": "FindNumberRecur",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchElementInRotatedArray",
+            "request": "launch",
+            "mainClass": "SearchElementInRotatedArray",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringFilter",
+            "request": "launch",
+            "mainClass": "StringFilter",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "test.Test",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch MostCharInString",
+            "request": "launch",
+            "mainClass": "MostCharInString",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch IncreasingFrequencySort",
+            "request": "launch",
+            "mainClass": "IncreasingFrequencySort",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch temp",
+            "request": "launch",
+            "mainClass": "temp",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueueUsingLinkedList",
+            "request": "launch",
+            "mainClass": "QueueUsingLinkedList",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackUsingLinkedList",
+            "request": "launch",
+            "mainClass": "StackUsingLinkedList",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch ElementInSortedArray",
+            "request": "launch",
+            "mainClass": "ElementInSortedArray",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch LongestSubSequence",
+            "request": "launch",
+            "mainClass": "LongestSubSequence",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubArrayWithEqualBinaryElement",
+            "request": "launch",
+            "mainClass": "SubArrayWithEqualBinaryElement",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddjusentTarget",
+            "request": "launch",
+            "mainClass": "AddjusentTarget",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountInversion",
+            "request": "launch",
+            "mainClass": "CountInversion",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxFreq",
+            "request": "launch",
+            "mainClass": "MaxFreq",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch GroupAnagram",
+            "request": "launch",
+            "mainClass": "GroupAnagram",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch RotateArray",
+            "request": "launch",
+            "mainClass": "RotateArray",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaximumGap",
+            "request": "launch",
+            "mainClass": "MaximumGap",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch TransitionIndex",
+            "request": "launch",
+            "mainClass": "TransitionIndex",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch RepeatingElementIndex",
+            "request": "launch",
+            "mainClass": "RepeatingElementIndex",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch BasicHashmapPractice",
+            "request": "launch",
+            "mainClass": "BasicHashmapPractice",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch Nonrep",
+            "request": "launch",
+            "mainClass": "Nonrep",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch BasicArray",
+            "request": "launch",
+            "mainClass": "BasicArray",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch EasySortAlphabat",
+            "request": "launch",
+            "mainClass": "EasySortAlphabat",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackLL",
+            "request": "launch",
+            "mainClass": "StackLL",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackRev",
+            "request": "launch",
+            "mainClass": "StackRev",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch PalindromString",
+            "request": "launch",
+            "mainClass": "PalindromString",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwapString",
+            "request": "launch",
+            "mainClass": "SwapString",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseLinkedList",
+            "request": "launch",
+            "mainClass": "ReverseLinkedList",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackClass",
+            "request": "launch",
+            "mainClass": "StackClass",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayToLL",
+            "request": "launch",
+            "mainClass": "ArrayToLL",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueueFirstPractice",
+            "request": "launch",
+            "mainClass": "QueueFirstPractice",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackFirstPractice",
+            "request": "launch",
+            "mainClass": "StackFirstPractice",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch LL",
+            "request": "launch",
+            "mainClass": "LL",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeNumberArray",
+            "request": "launch",
+            "mainClass": "PrimeNumberArray",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubsetSum",
+            "request": "launch",
+            "mainClass": "SubsetSum",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeNumber",
+            "request": "launch",
+            "mainClass": "PrimeNumber",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hashmap",
+            "request": "launch",
+            "mainClass": "Hashmap",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayWithoutFor",
+            "request": "launch",
+            "mainClass": "ArrayWithoutFor",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch CompressStringAssign",
+            "request": "launch",
+            "mainClass": "CompressStringAssign",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch DistributingMoney",
+            "request": "launch",
+            "mainClass": "DistributingMoney",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch PalindromeString",
+            "request": "launch",
+            "mainClass": "PalindromeString",
+            "projectName": "NS_2d8d7a39"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintDigit",
+            "request": "launch",
+            "mainClass": "PrintDigit",
+            "projectName": "NS_2d8d7a39"
+        }
+    ]
+}

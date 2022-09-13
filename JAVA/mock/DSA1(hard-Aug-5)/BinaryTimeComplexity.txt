@@ -1,0 +1,18 @@
+if array length = n
+after first iteration => 
+length have to traverse = n/2
+after 2nd iteration =>
+length      = (n/2) / 2 => n/4
+
+after 3rd
+len             = (n/4) / 2 => n/8
+                        n/2^3
+after kth iteration
+                        n/2^k
+                        n/2^k = 1
+                        n = 2^k
+apply log funtion at both side
+                        logn = log2^k
+                        logn = klog 2
+                        log 2 = 1 (on base 2)
+                        
